@@ -1,0 +1,20 @@
+{
+    "name": "Early Supporter",
+    "description": "Exclusive NFT for ERALAB NETWORK members. Bonuses and ecosystem participation.  eralab-network.gitbook.io",
+    "image": "https://tomato-wrong-lizard-600.mypinata.cloud/ipfs/bafybeiaxssz52qnlw7j2eetqrz4eyjrenzgc4b5omz6dwvjqqf2f4gkyji/Base.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Basic"
+        },
+        {
+            "trait_type": "Edition",
+            "value": "17/250"
+        },
+        {
+            "trait_type": "Total Supply",
+            "value": "767/1000"
+        }
+    ],
+    "external_link": "https://t.me/ERALAB_NETWORK"
+}
